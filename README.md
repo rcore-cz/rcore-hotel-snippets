@@ -8,6 +8,7 @@
 locales
 - english
 - czech
+- Spanish - By Roderic
 
 ---
 
@@ -17,4 +18,4 @@ Snippets
 ---
 
 API
-- esx_inventoryhud"# rcore-hotel-snippets" 
+- esx_inventoryhud
